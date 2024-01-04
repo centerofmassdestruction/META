@@ -1,0 +1,1 @@
+https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1672/yuzu-windows-msvc-20240104-77e9831e8.zip
